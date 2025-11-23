@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Hi, I'm Ansh Pangoria
 
-<!--
-**anshpangoria92748/anshpangoria92748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Graduate | Aerodynamics & UAV Design Enthusiast
+✈️ Specialized in Wing-in-Ground (WIG) Effect aircraft, CFD, and UAV prototyping
+📍 Agra, India
 
-Here are some ideas to get you started:
+🔬 My Main Research Project
+🚀 WIG-UAV Ground-Effect Research
+A complete research project including:
+CAD Design
+CFD Analysis
+Preprint (manuscript-style report)
+Experimental prototype
+Final year report
+Research poster
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👉 View the full project:
+https://github.com/anshpangoria92748/WIG-UAV-Ground-Effect-Research
+
+🛠️ Skills & Tools
+✈️ Aerodynamics & Simulation
+CFD (SolidWorks Flow Simulation)
+Ground-effect performance analysis
+Pressure/velocity/temperature contour study
+
+🧩 Design & Modelling
+CAD Modeling (SolidWorks)
+UAV structural design
+Foam & balsa fabrication
+
+📑 Documentation
+Technical report writing
+Poster creation
+Research-style preprint drafting
+
+🎯 What I'm Interested In
+UAV aerodynamics
+Ground-effect aircraft
+CFD simulation
+Advanced aircraft concepts
+Prototype/model development
+
+📫 Contact Me
+📧 Email: anshpangoria92748@gmail.com
+🌍 Location: Agra, India
+
+⭐ If you like my work, feel free to star or explore my repositories!
